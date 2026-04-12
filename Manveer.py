@@ -1,5 +1,5 @@
 import mysql.connector as ms
-m=ms.connect(host="localhost",user="root",password="Manveer123^",database="INVENTORY__ITEMS1")
+m=ms.connect(host="localhost",user="root",password="yourpassword",database="INVENTORY__ITEMS1")
 mc=m.cursor()
 mc.execute('''CREATE Database INVENTORY__ITEMS1''')
 mc.execute('''USE INVENTORY__ITEMS1;''')
