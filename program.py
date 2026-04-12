@@ -1,6 +1,6 @@
 # Setting up Database connection
 import mysql.connector as ms
-m=ms.connect(host="localhost",user="root",password="Manveer123^",database="INVENTORY__ITEMS1")
+m=ms.connect(host="localhost",user="root",password="yourpassword",database="INVENTORY__ITEMS1")
 mc=m.cursor()
 
 #Set up function to display all tables in the Database
