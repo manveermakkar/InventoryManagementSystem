@@ -11,7 +11,7 @@ A Python-based command-line Inventory Management System integrated with a MySQL 
 Inventory Management System/
 │
 ├── Manveer.py          # Database setup script (run once to initialize DB)
-└── func2.py            # Main application file (run to use the system)
+└── program.py            # Main application file (run to use the system)
 ```
 
 ---
