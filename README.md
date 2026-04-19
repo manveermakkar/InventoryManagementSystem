@@ -1,5 +1,5 @@
 # 📦 Inventory Management System
-**By Manveer Makkar | Class 12th A, FAS**
+**By Manveer Makkar **
 
 A Python-based command-line Inventory Management System integrated with a MySQL database. This project allows employees to **view, insert, update, and delete** inventory records across multiple product categories in real time.
 
